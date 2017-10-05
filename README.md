@@ -1,0 +1,1 @@
+# scalastyle-gradle-not-resolved
