@@ -1,6 +1,6 @@
 # scalastyle-gradle-not-resolved
 
-Gradle plugin for scalastyle 2.12 1.0.0 is not resolvable from jcenter
+gradle-scalastyle-plugin_2.12:1.0.0 is not resolvable from jcenter
 
 ```
 » ./gradlew scalaStyle
